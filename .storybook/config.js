@@ -9,6 +9,7 @@ function loadStories() {
   require('../stories/Data Display/');
   require('../stories/Feedback/');
   require('../stories/Other/');
+  require('../stories/G2/');
   // You can require as many stories as you need.
 }
 
